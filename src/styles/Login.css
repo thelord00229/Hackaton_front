@@ -1,0 +1,26 @@
+.login-container {
+    width: 350px;
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    background: #f0f0f0;
+    border-radius: 30px; 
+    margin-top: 200px;
+  }
+  form input {
+    width: 80%;
+    margin: 10px 0;
+    padding: 10px;
+    border: 1px solid #dddcdc;
+    border-radius: 10px;
+  }
+  button {
+    background: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 15px;
+  }
+  
